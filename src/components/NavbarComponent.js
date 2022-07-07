@@ -12,6 +12,7 @@ function NavbarComponent() {
                     <Nav.Link as={NavLink} to="/">News</Nav.Link>
                     <Nav.Link as={NavLink} to="/about">About</Nav.Link>
                     <Nav.Link as={NavLink} to="/contact">Contact</Nav.Link>
+                    {/* <Nav.Link as={NavLink} to="/counter">Counter</Nav.Link> */}
                     </Nav>
                 <Nav>
                     <Nav.Link>Signup</Nav.Link>
